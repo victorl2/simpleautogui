@@ -1,0 +1,1 @@
+xdotool keyup --delay 240 $1
