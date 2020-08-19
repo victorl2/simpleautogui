@@ -1,0 +1,1 @@
+xdotool windowfocus --sync $1
